@@ -4,7 +4,7 @@
 
 1. **Clone the Repository:**  
    ```bash
-   git clone <repository-link>
+   git clone <[repository-link](https://github.com/MAHAMAT263/mobile_dev_group_summative)>
    cd teen-konnekt-app
    ```
 
@@ -14,11 +14,8 @@
    flutter pub get
    ```
 
-3. **Set Up Firebase (if applicable):**  
-   - Add your `google-services.json` (Android) or `GoogleService-Info.plist` (iOS) files to the respective folders.  
-   - Configure Firebase Authentication, Firestore, and Cloud Messaging in the Firebase Console.  
 
-4. **Run the App:**  
+3. **Run the App:**  
    ```bash
    flutter run
    ```  
@@ -40,11 +37,11 @@
    - Engage in discussions with peers in moderated forums.  
    - Share experiences or ask questions anonymously.  
 
-4. **Q&A with Experts:**  
+4. **FAQs with Experts:**  
    - Post questions privately and receive expert advice.  
    - Access previously answered questions on common SRHR topics.  
 
-5. **Book a Session with a Counselor:**  
+5. **Talk to Expert/Counselors:**  
    - Schedule private sessions with certified counselors for tailored guidance.  
 
 ---
@@ -74,15 +71,11 @@ The Teen-Konnekt App implements the following authentication methods:
 2. **Authentication Rules:**  
    - Only authenticated users can access restricted features such as forums, Q&A, and counseling.  
 
-3. **Role-Based Access Control (RBAC):**  
-   - Users have specific roles (e.g., adolescent user, expert counselor) with tailored permissions.  
-   - Experts can only access queries assigned to them, maintaining user confidentiality.  
-
-4. **Secure Data Storage:**  
+3. **Secure Data Storage:**  
    - Sensitive data, such as session details or personal inquiries, is stored securely in Firestore with restricted access rules.  
 
-5. **Forum Moderation:**  
+4. **Forum Moderation:**  
    - AI and human moderators ensure that content shared in forums adheres to guidelines to protect users from harmful content or misinformation.  
 
-6. **Backup and Recovery:**  
+5. **Backup and Recovery:**  
    - Regular backups of user data are conducted to prevent loss in case of technical issues.  
