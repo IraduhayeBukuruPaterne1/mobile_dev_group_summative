@@ -1,0 +1,1 @@
+ C:\\Users\\user\\Documents\\Teen-Konnekt-App\\.dart_tool\\flutter_build\\722dda8a24349a598490bacb8fbae865\\native_assets.yaml: 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384640730140",
+    "project_id": "teen-6d20c",
+    "storage_bucket": "teen-6d20c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384640730140:android:703d07e33293f57dbb4bd9",
+        "android_client_info": {
+          "package_name": "com.example.teen_konnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzof6MQhxo9wi7afuG_4SgXom2D4NRv_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
